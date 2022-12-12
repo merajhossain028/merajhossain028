@@ -8,15 +8,15 @@
 </P>
 
 <p align="center">
-  <a href="https://github.com/merajhossain028/"><img src="https://komarev.com/ghpvc/?username=sabikrahat&label=Profile%20views&color=0e75b6&style=flat" alt="sabikrahat" /> </a>
-  <a href="https://github.com/merajhossain028"><img src="https://img.shields.io/github/followers/Sabikrahat?label=Followers&style=social" alt="GitHub Badge"></a> 
+  <a href="https://github.com/merajhossain028/"><img src="https://komarev.com/ghpvc/?username=merajhossain028&label=Profile%20views&color=0e75b6&style=flat" alt="merajhossain028" /> </a>
+  <a href="https://github.com/merajhossain028"><img src="https://img.shields.io/github/followers/merajhossain028?label=Followers&style=social" alt="GitHub Badge"></a> 
   <a href="https://github.com/merajhossain028?tab=repositories"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="GitHub Open Source Badge"></a> 
 </p>
 
 <!-- ## 🧮 Visitors Count
 
 <p align="center">
-  <img align="center" src = "https://profile-counter.glitch.me/sabikrahat/count.svg" alt ="Loading">
+  <img align="center" src = "https://profile-counter.glitch.me/merajhossain028/count.svg" alt ="Loading">
 </p> -->
 
 <br>
@@ -49,17 +49,17 @@
 
 <p align="center">
   <a href="https://github.com/merajhossain028/">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" height="170px" alt="Sabik Rahat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabikrahat&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" height="170px" alt="Sabik Rahat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=merajhossain028&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
   </a>
   <!-- <img align="right" width="300px" height="190px" src="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif" /> -->
 </p>
 
 <p>
   <a align="left" href="https://github.com/merajhossain028/">
-    <img alt="Subham Raoniar's Github Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=sabikrahat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Subham Raoniar's Github Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=merajhossain028&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/merajhossain028/">
-    <img align="right" alt="Meraj's Top Languages" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabikrahat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img align="right" alt="Meraj's Top Languages" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merajhossain028&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
 
 </p>
