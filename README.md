@@ -27,9 +27,11 @@
 
 <p align="left">
 
-- 🔭 &nbsp; I’m currently working at **Tecognize Solutions Ltd.** <img src="assets/gifs/winking-face-joypixels.gif" height="22px" width="22px">
+- 🔭 &nbsp; I’m currently working at **NerdDevs Ltd.** <img src="assets/gifs/winking-face-joypixels.gif" height="22px" width="22px">
 
-- 🔭 &nbsp; And also I'm a Flutter Instructor at **Tecognize Training** <img src="assets/gifs/winking-face-joypixels.gif" height="22px" width="22px">
+- 🔭 &nbsp; Former Mobile Application Developer at **Tecognize Solutions Ltd.** <img src="assets/gifs/winking-face-joypixels.gif" height="22px" width="22px">
+
+- 🔭 &nbsp; Former Flutter Instructor at **Tecognize Training** <img src="assets/gifs/winking-face-joypixels.gif" height="22px" width="22px">
 
 - 🌱 &nbsp; I’m currently learning **Flutter in depth.** <img src="assets/gifs/writing-hand-joypixels.gif" height="22px" width="22px">
 
